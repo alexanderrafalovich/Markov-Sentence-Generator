@@ -1,7 +1,7 @@
 # Markov-Sentence-Generator
 Generates new sentences from a traning text using a [Markov chain](https://en.wikipedia.org/wiki/Markov_chain)
 
-#Usage
+# Usage
 
 The project comes preloaded with some text form "On the German Ideology" by Karl Marx.
 
